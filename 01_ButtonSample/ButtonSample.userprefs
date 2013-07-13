@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ButtonSample\AppMain.cs">
+    <Files>
+      <File FileName="ButtonSample\AppMain.cs" Line="59" Column="1" />
+      <File FileName="ButtonSample\MainScene.cs" Line="16" Column="83" />
+      <File FileName="ButtonSample\MainScene.composer.cs" Line="15" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

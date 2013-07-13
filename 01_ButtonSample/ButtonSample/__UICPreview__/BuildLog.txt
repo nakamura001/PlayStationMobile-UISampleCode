@@ -1,0 +1,39 @@
+﻿Microsoft (R) Build Engine Version 4.0.30319.1
+[Microsoft .NET Framework, Version 4.0.30319.296]
+Copyright (C) Microsoft Corporation 2007. All rights reserved.
+
+2013/06/26 1:37:58 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\Public\Documents\PSM Projects\ButtonSample\ButtonSample\__UICPreview__\Preview.csproj" (Rebuild ターゲット)。
+CoreClean:
+  ファイル "C:\Users\Public\Documents\PSM Projects\ButtonSample\ButtonSample\__UICPreview__\bin\Release\Preview-unsigned\Application\app.info" を削除しています。
+  ファイル "C:\Users\Public\Documents\PSM Projects\ButtonSample\ButtonSample\__UICPreview__\bin\Release\Preview-unsigned\Application\app.exe" を削除しています。
+  ファイル "C:\Users\Public\Documents\PSM Projects\ButtonSample\ButtonSample\__UICPreview__\bin\Release\Preview-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll" を削除しています。
+  ファイル "C:\Users\Public\Documents\PSM Projects\ButtonSample\ButtonSample\__UICPreview__\obj\Release\ResolveAssemblyReference.cache" を削除しています。
+  ファイル "C:\Users\Public\Documents\PSM Projects\ButtonSample\ButtonSample\__UICPreview__\obj\Release\app.exe" を削除しています。
+_CompileMetadata:
+  C:\Program Files (x86)\SCE\PSM\tools\PublishingUtility\PublishingUtility.exe --compile app.xml bin\Release\Preview-unsigned\Application\app.info 
+_CompileShaderPrograms:
+出力がないため、ターゲット "_CompileShaderPrograms" を省略しています。
+_CompileEmbeddedShaderPrograms:
+出力がないため、ターゲット "_CompileEmbeddedShaderPrograms" を省略しています。
+GenerateTargetFrameworkMonikerAttribute:
+すべての出力ファイルが入力ファイルに対して最新なので、ターゲット "GenerateTargetFrameworkMonikerAttribute" を省略します。
+CoreCompile:
+  c:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nostdlib+ /errorreport:prompt /warn:4 /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\Psm\v1.0\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\Psm\v1.0\Sce.PlayStation.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\Psm\v1.0\Sce.PlayStation.HighLevel.UI.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\Psm\v1.0\System.dll" /debug- /optimize- /out:obj\Release\app.exe /target:exe __DummyProgram.cs MainScene.composer.cs MainScene.cs UIStringTable.cs "C:\Users\takashi_nakamura\AppData\Local\Temp\Psm,Version=v1.0.AssemblyAttributes.cs"
+_CopyFilesToBundle:
+  "obj\Release\app.exe" から "bin\Release\Preview-unsigned\Application\app.exe" へファイルをコピーしています。
+  "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\Psm\v1.0\Sce.PlayStation.HighLevel.UI.dll" から "bin\Release\Preview-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll" へファイルをコピーしています。
+  ディレクトリ "bin\Release\Preview-unsigned\Application\assets" を作成しています。
+  "..\\assets\/\player.jpg" から "bin\Release\Preview-unsigned\Application\assets\/\player.jpg" へファイルをコピーしています。
+_CreatePackage:
+  Since the Publisher Key and App Key corresponding to this app did not exist, -signed directory was not made.
+  File not found. "C:\Users\takashi_nakamura\AppData\Roaming\SCE\PSM Publishing Utility\PublisherKey\kdev.p12"
+  File not found. "C:\Users\takashi_nakamura\AppData\Roaming\SCE\PSM Publishing Utility\HostAppsKey\Preview.khapp"
+  
+プロジェクト "C:\Users\Public\Documents\PSM Projects\ButtonSample\ButtonSample\__UICPreview__\Preview.csproj" (Rebuild ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.39
