@@ -1,0 +1,15 @@
+﻿-----------------------------------------
+Exception Type: System.InvalidOperationException
+Exception Message: Unable to serialize docking layout while DockingManager control is unloaded
+Stack trace:
+   場所 AvalonDock.DockingManager.SaveLayout(XmlWriter sw)
+   場所 AvalonDock.DockingManager.SaveLayout(String filename)
+   場所 System.Windows.Window.WmClose()
+   場所 System.Windows.Window.WindowFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   場所 System.Windows.Interop.HwndSource.PublicHooksFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   場所 MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   場所 MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+-----------------------------------------
+

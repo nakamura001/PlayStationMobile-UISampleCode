@@ -1,10 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ButtonSample\MainScene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MessageBoxSample\MainScene.cs">
     <Files>
-      <File FileName="ButtonSample\AppMain.cs" Line="40" Column="4" />
-      <File FileName="ButtonSample\MainScene.cs" Line="18" Column="10" />
-      <File FileName="ButtonSample\MainScene.composer.cs" Line="15" Column="22" />
+      <File FileName="MessageBoxSample\MainScene.cs" Line="36" Column="10" />
+      <File FileName="MessageBoxSample\AppMain.cs" Line="54" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

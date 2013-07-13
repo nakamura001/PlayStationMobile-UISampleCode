@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusyIndicatorSample", "BusyIndicatorSample\BusyIndicatorSample.csproj", "{8AC43FF3-DC9A-403E-86EC-B9665F4B23FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC43FF3-DC9A-403E-86EC-B9665F4B23FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC43FF3-DC9A-403E-86EC-B9665F4B23FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC43FF3-DC9A-403E-86EC-B9665F4B23FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC43FF3-DC9A-403E-86EC-B9665F4B23FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BusyIndicatorSample\BusyIndicatorSample.csproj
+	EndGlobalSection
+EndGlobal
